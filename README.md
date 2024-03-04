@@ -23,7 +23,7 @@ Requirements
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
+
 
     This program utilizes the tqdm module for its progress bar functionality.
     Inspired by the need for a fast and concurrent port scanning tool.
