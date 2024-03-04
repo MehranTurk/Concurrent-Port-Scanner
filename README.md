@@ -11,7 +11,7 @@ Features
 Usage
 
     Clone the repository.
-    Run the program by executing the port_scanner.py file.
+    Run the program by executing the main.py file.
     Enter the IP address you want to scan when prompted.
     View the open ports detected by the scanner.
 
